@@ -1,0 +1,11 @@
+<script src="/Empresa/tallermvcphp/assets/js/jquery.min.js"></script> <!-- Primero jQuery -->
+<script src="/Empresa/tallermvcphp/assets/js/bootstrap.bundle.min.js"></script> <!-- Luego Bootstrap -->
+<script src="/Empresa/tallermvcphp/assets/js/sweetalert2.all.min.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/select2.full.min.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/datatables.min.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/all.min.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/moment.min.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/windowcenter.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/print.window.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/validate.js"></script>
+<script src="/Empresa/tallermvcphp/assets/js/login.js"></script>
